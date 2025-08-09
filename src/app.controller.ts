@@ -7,7 +7,7 @@ export class AppController {
 
   @Get('/api') 
   getApiInfo(): string {
-    return 'Welcome to the Doctor Booking API. Use /api for Swagger documentation.';
+    return 'Welcome to the Doctor Booking API. Use /api for Swagger documentation.ss';
   }
 
   @Get() 
